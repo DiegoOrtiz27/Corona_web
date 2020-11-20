@@ -1,0 +1,22 @@
+.input-container{
+  width: 22rem;
+  border-radius: 100px;
+  border: 1px solid gray;
+  display: flex;
+  padding: 5px 10px;
+  background-color: white;
+  justify-content: start;
+  align-items: center;
+  margin: 10px;
+  
+}
+input{
+  width: 10em;
+  height: 40px;
+  border: none;
+  outline: none;
+}
+img{
+  width: 1.5em;  
+
+}

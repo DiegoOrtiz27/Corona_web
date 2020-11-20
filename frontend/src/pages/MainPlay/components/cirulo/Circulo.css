@@ -1,0 +1,142 @@
+.container {
+  width: 8rem;
+  height: 7.80rem;
+  margin: 0.31em;
+}
+.primera {
+  padding: 1%;
+  background-color: #06bcf3;
+  color: #fff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  margin: 1em 50em;
+  border: solid 1px #fffcf9;
+  position: relative;
+}
+.segunda {
+  padding: 1%;
+  background-color: #02dd5d;
+  color: #fff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  margin: -1em 0 7em 20em ;
+  border: solid 1px #fffcf9;
+  position: relative;
+  
+}
+
+.tercera {
+  padding: 1%;
+  background-color: #6106f3;
+  color: #fff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  margin: left auto;
+  border: solid 1px #fffcf9;
+  margin: -7em 0 0 70em ;
+  position: relative;
+  top:-17px;
+}
+.cuarta {
+  padding: 1%;
+  background-color: #800202;
+  color: #fff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  margin: -1em 50em;
+  border: solid 1px #fffcf9;
+  position: relative;
+  text-align: center;
+}
+
+.image-container img {
+  width: 5em;
+  margin: 1em 0 0 2em;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+
+@media (max-width: 1600px) and (min-width: 1452px) {
+  .primera {
+    width: 150px;
+    height: 150px;
+  }
+  .segunda {
+    
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 80px;
+    left: 30%;
+  }
+  .tercera {
+   
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 60%;
+  }
+  .cuarta {
+    width: 150px;
+    height: 150px;
+  }
+}
+@media (max-width: 1451px) and (min-width: 1369){
+  .primera {
+    width: 150px;
+    height: 150px;
+  }
+  .segunda {
+    
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 80px;
+    left:  400px;
+  }
+  .tercera {
+    
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 900px;
+  }
+  .cuarta {
+    width: 150px;
+    height: 150px;
+  }
+
+  }
+  @media (max-width: 1450px){
+    .primera {
+      width: 150px;
+      height: 150px;
+    }
+    .segunda {
+      
+      width: 150px;
+      height: 150px;
+      position: relative;
+      top: 80px;
+      left:  25%;
+    }
+    .tercera {
+      
+      width: 150px;
+      height: 150px;
+      position: relative;
+      left: 65%;
+    }
+    .cuarta {
+      width: 150px;
+      height: 150px;
+    }
+  
+  }
+

@@ -1,0 +1,21 @@
+.header {
+  background-image: linear-gradient(to bottom,rgba(124, 124, 124, 0.842),white 15%);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 3px 1px 16px 2px rgba(0, 0, 0, 0.747); 
+}
+.header img {
+  width: 50px;
+  line-height: 20px;
+}
+.contenedor-logo {
+  padding-left: 50px;
+  display: flex;
+  align-items: center;
+}
+.header h1 {
+  padding-right: 100px;
+  color: rgb(9, 0, 255);
+  font-weight: bold;
+}
